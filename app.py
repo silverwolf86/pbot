@@ -36,7 +36,7 @@ if __name__ == '__main__':
     if app.config['DEBUG']:
         @app.before_first_request
         def create_tables():
-            print('creando tablas')
+            print('creando tablas on request ')
             db.create_all()
 
     app.run(port=5002)
