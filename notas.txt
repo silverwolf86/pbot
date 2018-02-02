@@ -28,7 +28,6 @@ Usuario
     Forgot Password
     Mostrar todos los contratos
     consultar 
-
     Registrar Nuevo Contrato {mandar data  en el API lo parseamos y grabamos en campo tipo json }
 
     
