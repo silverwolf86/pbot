@@ -13,7 +13,7 @@ app.config['DEBUG'] = True
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://kratos:12345@localhost/pbot'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.secret_key = 'franco'
+app.secret_key = 'silverwolf86'
 api = Api(app)
 
 #jwt = JWT(app, authenticate, identity)  # /auth
