@@ -22,7 +22,7 @@ pero tambien
 Cron
     Consultar todos los contratos que saean by_date , 
 
-Empezar a hacer las notificaciones
+Empezar a hacer las notificaciones...debo empezar a hacer esto urgente
 
 Usuario
     Forgot Password
