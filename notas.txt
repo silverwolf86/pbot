@@ -1,0 +1,34 @@
+Contrato
+Cuando se une el Usuario con 1 Servicio, el usuario puede tener n servicios --OK
+
+En el Contrato se debe ingresar :
+Dependiendo del servicios
+ - el numero de contrapartida
+ - usuario y contraseña del portal ( Ejemplo Telepeaje)   --OK
+
+ No hagamos tan generico ... luego le voy mejorando  --OK
+
+El Contrato debe tener un metodo que diga CONSULTAR  --OK
+
+segun el servicio , llama al metodo y devuelve el valor  --OK
+ 
+De los servicios como el agua deberia grabar por fechas ... para mostrar un cuadro al usuario
+Del telepeaje aun no se ... pero talvez algun total o algo asi 
+
+Me falta una tabla que sea como servicio actual o notificacion siguiente
+pero tambien 
+
+
+Cron
+    Consultar todos los contratos que saean by_date , 
+
+Empezar a hacer las notificaciones
+
+Usuario
+    Forgot Password
+    Mostrar todos los contratos
+    consultar 
+
+    Registrar Nuevo Contrato {mandar data  en el API lo parseamos y grabamos en campo tipo json }
+
+    
